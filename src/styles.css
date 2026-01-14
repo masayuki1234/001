@@ -1,0 +1,7 @@
+body {
+  /*ページ全体の背景を黒に*/
+  background-color: black;
+  color: #ddd;
+  text-align: center;
+  overflow-x: hidden;
+}
